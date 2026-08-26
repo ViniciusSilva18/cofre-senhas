@@ -9,6 +9,13 @@
 
 </div>
 
+<div align="center">
+  <a href="https://github.com/ViniciusSilva18/cofre-senhas">
+    <img src="https://komarev.com/ghpvc/?username=ViniciusSilva18-cofre-senhas&label=Visualiza%C3%A7%C3%B5es&color=06b6d4&style=flat" alt="Views" />
+  </a>
+</div>
+
+
 ## 🔒 Segurança
 - AES-256 via Fernet (cryptography library)
 - PBKDF2-SHA256 com 480.000 iterações para a master key
